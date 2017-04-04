@@ -1,5 +1,3 @@
-#define PERSONNE_H
-
 
 #include <stdlib.h>
 #include <ctime>
