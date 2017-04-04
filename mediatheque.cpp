@@ -1,7 +1,7 @@
 // mediatheque.cpp : définit le point d'entrée pour l'application console.
 //
 #include "stdafx.h"
-#include "Personne.h"
+#include "media.h"
 #include <algorithm>
 #include <cassert>
 
